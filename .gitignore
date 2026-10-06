@@ -1,0 +1,13 @@
+node_modules/
+artifacts/
+cache/
+coverage/
+types/
+.openzeppelin/
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
